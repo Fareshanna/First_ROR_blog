@@ -1,0 +1,2 @@
+class Singular < ApplicationRecord
+end
